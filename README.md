@@ -1,0 +1,2 @@
+# diarb
+auto airdrop 
